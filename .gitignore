@@ -1,0 +1,9 @@
+# Compilação e binários temporários do Arduino
+*.elf
+*.bin
+*.hex
+build/
+
+# VS Code / IDEs
+.vscode/
+.idea/
